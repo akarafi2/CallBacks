@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(192, 250, 250);
+    text-align: center;
+  }
+  
+  div {
+    background: rgba(165, 237, 247, 0.9);
+    margin: 50px 50px;
+  }
+  
+  #Alert{
+    background-color:rgb(238, 218, 104);
+    
+  }
